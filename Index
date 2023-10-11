@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+
+    <title>
+
+        Simple web Development Template
+
+    </title>
+
+</head>
+
+
+<body>
+
+<Center>
+
+        <ul class="nav-list">
+
+            <li><a href="#home">Home</a></li>
+
+            <li><a href="#feature">Feature</a></li>
+
+            <li><a href="#blog">Blog</a></li>
+        
+             <li><a href="#shop">Shop</a></li>
+
+        </ul>
+
+<button class="btn btn-sm">Search</button>
+
+<button type="submit" class="signbtn">Sign in</button>
+
+<br>
+
+
+    
+
+                <h1 class="text-big" id="web"><center>
+
+                    Startup Framework
+</center>
+
+                </h1>
+
+                 
+
+                <p class="text-small">
+
+                    We made it so beautiful and simple. It combines landings, pages , blogs and shop screens. It is definitely a tool you need in your collections!
+
+                </p>
+
+
+<button type="submit" class="purchasebtn">Purchase now for $248</button>
+
+<a href="#">Learn more</a>
+</Center>
+
+
+  
+
+   
+
+
+
+    </footer>
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+
+signbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+signbtn:hover {
+  opacity:1;
+}
+
+
+
+
+purchasebtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+purchasebtn:hover {
+  opacity:1;
+}
